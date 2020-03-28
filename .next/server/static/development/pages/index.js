@@ -371,7 +371,7 @@ function Footer() {
       lineNumber: 9,
       columnNumber: 11
     }
-  }, "Statically Generated with Next.js."), __jsx("div", {
+  }, "Statically Generated com Next.js."), __jsx("div", {
     className: "flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2",
     __self: this,
     __source: {
@@ -388,7 +388,7 @@ function Footer() {
       lineNumber: 13,
       columnNumber: 13
     }
-  }, "Read Documentation"), __jsx("a", {
+  }, "Ler a Documenta\xE7\xE3o"), __jsx("a", {
     href: `https://github.com/zeit/next.js/tree/canary/examples/${_lib_constants__WEBPACK_IMPORTED_MODULE_2__["EXAMPLE_PATH"]}`,
     className: "mx-3 font-bold hover:underline",
     __self: this,
@@ -397,7 +397,7 @@ function Footer() {
       lineNumber: 19,
       columnNumber: 13
     }
-  }, "View on GitHub")))));
+  }, "Ver no GitHub")))));
 }
 
 /***/ }),
@@ -586,7 +586,7 @@ function Intro() {
       lineNumber: 9,
       columnNumber: 7
     }
-  }, "A statically generated blog example using", ' ', __jsx("a", {
+  }, "blog criado no static-generator", ' ', __jsx("a", {
     href: "https://nextjs.org/",
     className: "underline hover:text-success duration-200 transition-colors",
     __self: this,
@@ -595,7 +595,14 @@ function Intro() {
       lineNumber: 11,
       columnNumber: 9
     }
-  }, "Next.js"), ' ', "and ", _lib_constants__WEBPACK_IMPORTED_MODULE_1__["CMS_NAME"], "."));
+  }, "Next.js"), ' ', "e ", _lib_constants__WEBPACK_IMPORTED_MODULE_1__["CMS_NAME"], ".", __jsx("br", {
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18,
+      columnNumber: 9
+    }
+  }), "Esse blog \xE9 um exemplo academico com intuito ajudar os alunos com o desenvolvimento web"));
 }
 
 /***/ }),
@@ -850,7 +857,7 @@ function MoreStories({
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "More Stories"), __jsx("div", {
+  }, "Mais noticias"), __jsx("div", {
     className: "grid grid-cols-1 md:grid-cols-2 md:col-gap-16 lg:col-gap-32 row-gap-20 md:row-gap-32 mb-32",
     __self: this,
     __source: {

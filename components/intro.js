@@ -7,14 +7,16 @@ export default function Intro() {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{' '}
+        blog criado no static-generator{' '}
         <a
           href="https://nextjs.org/"
           className="underline hover:text-success duration-200 transition-colors"
         >
           Next.js
         </a>{' '}
-        and {CMS_NAME}.
+        e {CMS_NAME}.
+        <br />
+        Esse blog é um exemplo academico com intuito ajudar os alunos com o desenvolvimento web
       </h4>
     </section>
   )
