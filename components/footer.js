@@ -17,7 +17,7 @@ export default function Footer() {
               Ler a Documentação
             </a>
             <a
-              href={`https://github.com/zeit/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+              href={`https://github.com/GodVictor/Blog`}
               className="mx-3 font-bold hover:underline"
             >
               Ver no GitHub
