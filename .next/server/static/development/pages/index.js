@@ -389,7 +389,7 @@ function Footer() {
       columnNumber: 13
     }
   }, "Ler a Documenta\xE7\xE3o"), __jsx("a", {
-    href: `https://github.com/zeit/next.js/tree/canary/examples/${_lib_constants__WEBPACK_IMPORTED_MODULE_2__["EXAMPLE_PATH"]}`,
+    href: `https://github.com/GodVictor/Blog`,
     className: "mx-3 font-bold hover:underline",
     __self: this,
     __source: {
@@ -2813,7 +2813,7 @@ function Index({
       lineNumber: 17,
       columnNumber: 11
     }
-  }, "Next.js Blog Example with ", _lib_constants__WEBPACK_IMPORTED_MODULE_8__["CMS_NAME"])), __jsx(_components_container__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }, "Blog ", _lib_constants__WEBPACK_IMPORTED_MODULE_8__["CMS_NAME"])), __jsx(_components_container__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __self: this,
     __source: {
       fileName: _jsxFileName,
